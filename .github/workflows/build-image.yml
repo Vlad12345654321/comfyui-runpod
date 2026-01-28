@@ -25,4 +25,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/comfyui-runpod:latest
+          tags: ghcr.io/vlad12345654321/comfyui-runpod:latest
+
